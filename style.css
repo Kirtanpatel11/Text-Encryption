@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: #00ff99;
+    font-family: monospace;
+}
+.container {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+input, select, button {
+    padding: 10px;
+    margin: 5px;
+    background: #1e1e1e;
+    color: #00ff99;
+    border: 1px solid #00ff99;
+}
