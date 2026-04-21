@@ -1,3 +1,5 @@
+#TEXT ENCRYPTION USING AES, DES, AND RSA
+
 from Crypto.Cipher import AES, DES, PKCS1_OAEP
 from Crypto.Random import get_random_bytes
 from Crypto.PublicKey import RSA
